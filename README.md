@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaqqiLucky
-- 👀 I’m interested in AI Progrmming like Pyhton and Mobile Programming, in future i will try to catch up with web developer
+- 👀 I’m interested in AI Progrmming like Pyhton, in future i will try to catch up with web developer
 - 🌱 I’m currently learning Pyhton and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me via linkedin that i put on my profile
