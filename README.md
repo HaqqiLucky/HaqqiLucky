@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaqqiLucky
-- 👀 I’m interested in AI Progrmming like Pyhton, in future i will try to catch up with web developer
-- 🌱 I’m currently learning Pyhton and Data Science
+- 👀 I’m interested in AI Progrmming, Data Analyst, and Machine Learning
+- 🌱 I’m currently learning Django and Data Analyst, actually im not interested in backend but i already get involved hehe 
 - 📫 You can contact me via linkedin that i put on my profile
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im still studeent at Politeknik Negeri Madiun
