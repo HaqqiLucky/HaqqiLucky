@@ -1,1 +1,5 @@
 - 👋 Hi, I’m Haqqi
+- The end of human brain cognitive is almost come
+- When all the brain now swiched to AI
+- Is this because of AI supremacy
+- Or the human itself too foolish to use it
